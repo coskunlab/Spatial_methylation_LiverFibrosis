@@ -1,6 +1,6 @@
 # Liver Fibrosis & Diet Spatial Analysis
 
-This repository contains the computational workflow and Python scripts used for the analysis of liver fibrosis under high-fat diet conditions, as described in the manuscript "Dietary modification of the liver fibrosis spatial proteome".
+This repository contains the computational workflow and Python scripts used for the analysis of liver fibrosis under high-fat diet conditions, as described in the manuscript "Spatially Resolved Multiplex Protein Profiling Reveals DNA Methylation-Dependent Microenvironmental Remodeling in Liver Fibrosis".
 
 ## Overview
 
